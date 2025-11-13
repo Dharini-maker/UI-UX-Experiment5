@@ -2,7 +2,7 @@
 
 ## Aim:
 
-1. Identify User Pain Points
+## 1. Identify User Pain Points
 
 Observe users while they interact with similar apps or websites.
 
@@ -18,7 +18,7 @@ Example:
 
 “A user needs a way to order food quickly because too many pop-ups appear during checkout, which results in frustration and order cancellation.”
 
-2. Identifying Appropriate Research Methods
+## 2. Identifying Appropriate Research Methods
 
 Select suitable research methods such as surveys, interviews, usability testing, or diary studies.
 
@@ -29,7 +29,7 @@ Choose methods based on project goals and available resources.
 Justification:
 These methods help understand how users behave, what problems they face, and how design can improve their experience.
 
-3. Creating Personas
+## 3. Creating Personas
 
 Use user data or scenarios to represent different types of users.
 
@@ -37,7 +37,7 @@ Personas help designers stay focused on real needs and behaviors.
 
 Include personal goals, habits, frustrations, and motivations.
 
-4. Create at Least Two User Personas With
+## 4. Create at Least Two User Personas With
 
 Demographics – Basic details like age, occupation, and location.
 
