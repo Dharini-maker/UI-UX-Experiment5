@@ -2,170 +2,169 @@
 
 ## Aim:
 
-To Present 2 different UX project scenarios (e.g., designing a health app, an e-commerce site, or a government service portal).
+1. Identify User Pain Points
 
-## Algorithm:
+Observe users while they interact with similar apps or websites.
 
-1. Identify user pain points.
+List areas where they struggle, get confused, or take longer to complete tasks.
 
-Write 1–2 clear UX problem statements using the defined template:
+Focus on recurring problems across different users.
 
-"[User] needs a way to [achieve goal] because [obstacle], which results in [impact]."
+Write 1–2 clear UX problem statements using this template:
+
+“[User] needs a way to [achieve goal] because [obstacle], which results in [impact].”
+
+Example:
+
+“A user needs a way to order food quickly because too many pop-ups appear during checkout, which results in frustration and order cancellation.”
 
 2. Identifying Appropriate Research Methods
 
-Identify the most suitable research methods (e.g., surveys, interviews, usability testing, diary studies).
-Justify your method choice.
+Select suitable research methods such as surveys, interviews, usability testing, or diary studies.
+
+Combine both quantitative (numbers, usage data) and qualitative (opinions, feelings) methods for balanced insights.
+
+Choose methods based on project goals and available resources.
+
+Justification:
+These methods help understand how users behave, what problems they face, and how design can improve their experience.
 
 3. Creating Personas
 
-Based on previous user data or a given user scenario.
+Use user data or scenarios to represent different types of users.
 
-4. Create at least two user personas with:
+Personas help designers stay focused on real needs and behaviors.
 
-Demographics
+Include personal goals, habits, frustrations, and motivations.
 
-Goals
+4. Create at Least Two User Personas With
 
-Behaviors
+Demographics – Basic details like age, occupation, and location.
 
-Pain points
+Goals – What the user wants to achieve using the product.
 
-Motivation
+Behaviors – How the user interacts with similar apps or websites.
 
-5. Submission:
+Pain Points – What difficulties or frustrations the user faces.
 
-Mention the GitHub Repo URL in the submission text and attach the lab report pdf.
+Motivation – Why the user wants to solve these problems.
 
 ## Output:
 
-Scenario 1: Designing a Health App for Chronic Disease Management
-Problem Statements
+## UX Project Scenario 1 – Health & Fitness App
 
-Problem Statement 1:
+## 1. Identifying and Writing Problem Statements
 
-"Adults with chronic illnesses need a way to consistently monitor their health metrics because they often forget or struggle to track their progress manually, which results in poor disease management and increased risk of complications."
+• Users need a way to track their workouts and meals easily because most fitness apps
+have too many steps, which results in users giving up after a few days.
 
-Problem Statement 2:
+• Users need a way to set small and realistic fitness goals because big or unclear targets
+feel demotivating, which results in low consistency.
 
-"Caregivers need a way to access and monitor their patient’s health data remotely because they are not always physically present, which results in missed updates and delayed interventions."
+• Users need a way to see progress visually because numbers alone don’t show
+improvements clearly, which results in less engagement.
 
-Research Methods
+• Users need a way to receive reminders or motivational quotes because they often forget
+to log data, which results in incomplete progress tracking.
 
-User Interviews – To understand daily challenges and emotional factors of managing chronic illnesses.
+## 2. Identifying Appropriate Research Methods
 
-Diary Studies – To track how users interact with their current solutions over time and identify patterns.
+• Online Surveys – To understand what features users like or dislike in current fitness
+apps.
 
-Usability Testing (Prototype Phase) – To evaluate how easily users can navigate and use the health tracking features.
+• User Interviews – To hear real struggles and motivations from users who work out
+regularly.
 
-Justification:
+• Competitor Analysis – To compare leading apps like Fitbit or MyFitnessPal and find
+gaps.
 
-Chronic disease management involves nuanced, long-term behavior.
+• Usability Testing – To observe how users perform key actions like logging workouts or
+viewing stats.
 
-Diary studies provide insights into how users engage with tracking over time.
+## 3. Creating Personas
 
-Interviews reveal emotional pain points, while usability testing ensures the final interface supports users intuitively.
+Persona 1 – Rahul (Age 25, IT Employee)
 
-User Personas
+• Demographics: Lives in Chennai, full-time IT job, tech-savvy.
 
-Persona 1:
+• Goals: Stay fit, build muscle, track workouts quickly.
 
-Name: Madhav
+• Behaviors: Uses fitness apps but skips detailed logging.
 
-Age: 52
+• Pain Points: Complex menus and too many features.
 
-Occupation: Bank Manager
+• Motivation: Wants to maintain energy and reduce stress.
 
-Health Condition: Type 2 Diabetes
+Persona 2 – Priya (Age 32, Teacher)
 
-Goals: Maintain consistent blood sugar levels, avoid complications
+• Demographics: Married, moderate tech user.
 
-Behaviors: Uses phone regularly, checks emails and WhatsApp, avoids manual logging
+• Goals: Lose weight, manage healthy eating habits.
 
-Pain Points: Forgets to log meals and glucose readings, finds apps with many features confusing
+• Behaviors: Logs meals manually, checks weekly progress.
 
-Motivations: Wants to remain healthy for his family, avoid hospitalization
+• Pain Points: Hard to find simple calorie tracker.
 
-Persona 2:
+• Motivation: Wants a healthy, confident lifestyle.
 
-Name: Deepak
+## UX Project Scenario 2 – Food Delivery App
 
-Age: 34
+## 1. Identifying and Writing Problem Statements
 
-Occupation: Full-time caregiver to his mother
+• Users need a way to find nearby restaurants faster because too many filters make the
+process slow, which results in user frustration.
 
-Goals: Monitor his mother’s vitals remotely, ensure medication adherence
+• Users need a way to track their food orders easily because order updates are unclear,
+which results in confusion and anxiety.
 
-Behaviors: Tech-savvy, checks mobile notifications frequently
+• Users need a way to complete checkout quickly because multiple steps delay the
+process, which results in cart abandonment.
 
-Pain Points: Cannot be physically present 24/7, lacks real-time visibility into his mother’s health status
+• Users need a way to see clear food images and prices because cluttered layouts make
+choices harder, which results in longer decision time.
 
-Motivations: Peace of mind and timely action if health declines
+• Users need a way to get helpful error messages because unclear messages cause
+repeated mistakes, which results in poor experience.
 
-Scenario 2: Designing an E-commerce Website for Local Handicrafts
-Problem Statements
+## 2. Identifying Appropriate Research Methods
 
-Problem Statement 1:
+• Competitor Analysis – Compare popular apps like Swiggy and Zomato to identify design
+strengths and weaknesses.
 
-"First-time online shoppers in rural areas need a way to confidently purchase handicrafts online because they are unfamiliar with digital payment and shipping processes, which results in distrust and abandoned carts."
+• Heuristic Evaluation – Use Nielsen’s usability heuristics to find interface and navigation
+issues.
 
-Problem Statement 2:
+• User Interviews – Talk to regular food delivery users to understand real frustrations.
 
-"Local artisans need a way to showcase and sell their products digitally because they lack marketing experience, which results in poor visibility and limited sales."
+• A/B Testing – Test two design versions to measure which one improves user satisfaction
+and conversion.
+These research methods help uncover usability problems, user expectations, and design
+improvements needed for a smoother food ordering experience.
 
-Research Methods
+3. Creating Personas
+Persona 1 – Arjun (Age 22, College Student)
 
-Surveys – To gather broad quantitative data about user tech literacy and preferences.
+• Demographics: Lives in hostel, orders food 3–4 times weekly.
 
-Contextual Inquiry – Observe rural users interacting with smartphones and online stores.
+• Goals: Get tasty, affordable food quickly.
 
-Usability Testing – To ensure clarity of checkout flow and ease of browsing.
+• Behaviors: Uses phone; prefers quick checkout.
 
-Justification:
+• Pain Points: Too many ads and payment delays.
 
-Surveys help understand user distribution across tech familiarity levels.
+• Motivation: Wants fast ordering and easy navigation.
 
-Contextual inquiry is crucial for uncovering unspoken usability barriers.
+Persona 2 – Kavya (Age 28, Working Professional)
 
-Usability testing ensures real-world users understand the navigation and trust the interface.
+• Demographics: Works long hours, uses delivery apps often.
 
-User Personas
+• Goals: Find reliable and healthy food options.
 
-Persona 1:
+• Behaviors: Reads reviews and tracks orders.
 
-Name: Lahari
+• Pain Points: Difficult navigation and unclear delivery time.
 
-Age: 47
-
-Occupation: Artisan (Weaver)
-
-Location: Rural Tamil Nadu
-
-Goals: Reach new customers, sell more without needing a middleman
-
-Behaviors: Uses WhatsApp, doesn’t fully trust online platforms
-
-Pain Points: Difficulty uploading product photos, understanding product descriptions in English
-
-Motivations: Financial independence and pride in her craft
-
-Persona 2:
-
-Name: Ganesh
-
-Age: 28
-
-Occupation: School Teacher
-
-Location: Small town in Gujarat
-
-Goals: Buy authentic local products to support artisans
-
-Behaviors: Shops online occasionally, prefers COD (Cash on Delivery)
-
-Pain Points: Poor product descriptions, worries about quality and returns
-
-Motivations: Supporting local culture, getting value for money
+• Motivation: Wants a simple and stress-free food ordering process.
 
 ## Result:
 
