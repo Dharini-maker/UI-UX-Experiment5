@@ -3,23 +3,24 @@
 To Present 2 different UX project scenarios (e.g., designing a health app, an e-commerce site, or a government service portal).
 
 ## Algorithm:
-1. Identify user pain points.
+
+1.Identify user pain points.
 
 Write 1–2 clear UX problem statements using the defined template:
 
 "[User] needs a way to [achieve goal] because [obstacle], which results in [impact]."
 
-2. Identifying Appropriate Research Methods
+2.Identifying Appropriate Research Methods
 
 Identify the most suitable research methods (e.g., surveys, interviews, usability testing, diary studies).
 
 Justify your method choice.
 
-3. Creating Personas
+3.Creating Personas
 
 Based on previous user data or a given user scenario.
 
-4. Create at least two user personas with:
+4.Create at least two user personas with:
 
 Demographics
 
@@ -31,6 +32,7 @@ Pain points
 
 Motivation
 
+
 ##  OUTPUT
 
 
@@ -41,21 +43,21 @@ User Pain Points
 
 Citizens face difficulty in finding the correct government forms or applying for services online. The portal interface is outdated, extremely text-heavy, and often confusing—especially for first-time users.
 
-<img width="956" height="563" alt="image" src="https://github.com/user-attachments/assets/54604922-d19d-4f0c-836c-5cf57900cbe0" />
+<img width="640" height="377" alt="image" src="https://github.com/user-attachments/assets/54604922-d19d-4f0c-836c-5cf57900cbe0" />
 
 <br>
-<img width="1011" height="470" alt="image" src="https://github.com/user-attachments/assets/9297455d-bd28-422d-a41c-906852040507" />
+<img width="640" height="377" alt="image" src="https://github.com/user-attachments/assets/9297455d-bd28-422d-a41c-906852040507" />
 
-Problem Statement 1
+## Problem Statement 1
 
 “Citizens need a way to easily locate and apply for government services because the current portals have complex navigation and unclear categories, which results in user confusion and incomplete applications.”
 
-Problem Statement 2
+## Problem Statement 2
 
 “Elderly users need a way to access essential services without technical difficulty because most portals are not mobile-friendly, which results in frustration and reliance on others for help.”
 
 
-2. Research Methods
+## 2.Research Methods
 Chosen Methods
 
 User Interviews:
@@ -69,8 +71,9 @@ Justification
 Interviews help gather real frustrations and expectations.
 Heuristic evaluation helps identify UI problems like cluttered text, inconsistent navigation, lack of guidance, and poor mobile responsiveness.
 
-3. User Personas
-Persona 1: Meena Iyer
+## 3.User Personas
+
+## Persona 1: Meena Iyer
 
 Age: 52
 
@@ -87,7 +90,7 @@ Pain Points: Finds government sites confusing with too many links and unclear in
 Motivation: Wants a hassle-free way to complete tasks without visiting offices.
 
 
-Persona 2: Rakesh Nair
+## Persona 2: Rakesh Nair
 
 Age: 29
 
@@ -104,28 +107,29 @@ Pain Points: Slow loading pages and outdated design cause frustration.
 Motivation: Wants quick and reliable access to online forms and status tracking.
 
 
-Project Scenario 2: Food Delivery App (QuickMeal)
-1. Problem Statements
-User Pain Points
+## Project Scenario 2:Food Delivery App (QuickMeal)
+## 1.Problem Statements
+
+## User Pain Points
 
 Users get confused by too many restaurant choices, cluttered menu items, and repeated offers. The checkout process is long and filled with unnecessary steps.
 
-<img width="1008" height="495" alt="image" src="https://github.com/user-attachments/assets/4bb71cec-d04e-4c59-a45b-0d3d2f5d3679" />
+<img width="640" height="377" alt="image" src="https://github.com/user-attachments/assets/4bb71cec-d04e-4c59-a45b-0d3d2f5d3679" />
 <br>
 
-<img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/e70388e8-24a6-4c83-9cf5-95471a233a78" />
+<img width="640" height="377" alt="image" src="https://github.com/user-attachments/assets/e70388e8-24a6-4c83-9cf5-95471a233a78" />
 
 
-Problem Statement 1
+## Problem Statement 1
 
 “Busy professionals need a way to order food quickly because too many restaurant and menu options make decision-making difficult, which results in order delays and app abandonment.”
 
-Problem Statement 2
+## Problem Statement 2
 
 “Frequent users need a simplified checkout process because extra confirmation steps slow down the ordering experience, which results in frustration and lower user retention.”
 
 
-2. Research Methods
+## 2.Research Methods
 Chosen Methods
 
 Online Surveys:
@@ -139,8 +143,10 @@ Justification
 Surveys provide measurable data about user frustrations and needs.
 A/B testing reveals which version leads to faster orders and fewer app drop-offs.
 
-3. User Personas
-Persona 1: Ananya Rao
+## 3.User Personas
+
+
+## Persona 1: Ananya Rao
 
 Age: 25
 
@@ -158,7 +164,7 @@ Motivation: Wants quick ordering and clear pricing.
 
 
 
-Persona 2: Rohit Sen
+## Persona 2: Rohit Sen
 
 Age: 36
 
@@ -176,6 +182,6 @@ Motivation: Wants a one-tap reorder option.
 
 
 
-Result
+## Result
 
 Hence, presenting two different UX project scenarios—a Government Service Portal and a Food Delivery App—is completed successfully with problem statements, research methods, user personas, and suggested image placements.
