@@ -1,8 +1,8 @@
-Aim:
+## Aim:
 
 To Present 2 different UX project scenarios (e.g., designing a health app, an e-commerce site, or a government service portal).
 
-Algorithm:
+## Algorithm:
 1. Identify user pain points.
 
 Write 1–2 clear UX problem statements using the defined template:
@@ -34,16 +34,17 @@ Motivation
 ##  OUTPUT
 
 
-Project Scenario 1: Government Service Portal (Online Citizen Services)
-1. Problem Statements
+## Project Scenario 1: Government Service Portal (Online Citizen Services)
+
+## 1. Problem Statements
 User Pain Points
 
 Citizens face difficulty in finding the correct government forms or applying for services online. The portal interface is outdated, extremely text-heavy, and often confusing—especially for first-time users.
 
-<img width="1249" height="567" alt="image" src="https://github.com/user-attachments/assets/a5246c89-9287-4d09-9708-b8efce58f0c9" />
+<img width="956" height="563" alt="image" src="https://github.com/user-attachments/assets/54604922-d19d-4f0c-836c-5cf57900cbe0" />
 
-
-<img width="818" height="398" alt="image" src="https://github.com/user-attachments/assets/c56c7bc4-85b8-480c-97a3-cc1c326fde60" />
+<br>
+<img width="1011" height="470" alt="image" src="https://github.com/user-attachments/assets/9297455d-bd28-422d-a41c-906852040507" />
 
 Problem Statement 1
 
@@ -109,9 +110,10 @@ User Pain Points
 
 Users get confused by too many restaurant choices, cluttered menu items, and repeated offers. The checkout process is long and filled with unnecessary steps.
 
-<img width="309" height="163" alt="image" src="https://github.com/user-attachments/assets/361a61c1-0164-4128-bb27-4fda54857bff" />
+<img width="1008" height="495" alt="image" src="https://github.com/user-attachments/assets/4bb71cec-d04e-4c59-a45b-0d3d2f5d3679" />
+<br>
 
-<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/4886b0b8-3193-4d20-a692-b80a9bc46f2e" />
+<img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/e70388e8-24a6-4c83-9cf5-95471a233a78" />
 
 
 Problem Statement 1
